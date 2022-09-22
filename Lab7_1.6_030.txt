@@ -1,0 +1,5 @@
+64050030 กิติภูมิ หน่อเนื้อ
+ข้อ 1.6 หาก uncommment บรรทัดที่ 19 o.getValue() จากบรรทัดที่ 20 ตอบค่าอะไรได้บ้าง?
+	ผลลัพธ์ที่ได้จะเป็น :	From worker1 thread 21 x value is 3
+			From worker 2 thread 22 x value is 7
+			from main x value is 7
